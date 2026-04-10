@@ -1,87 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://firedbymybankruptcylawyer.com/</loc>
-    <lastmod>2026-04-08</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://firedbymybankruptcylawyer.com/why-attorneys-withdraw.html</loc>
-    <lastmod>2026-04-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://firedbymybankruptcylawyer.com/next-steps.html</loc>
-    <lastmod>2026-04-08</lastmod>
+    <loc>https://firedbymybankruptcylawyer.com/fee-disputes.html</loc>
+    <lastmod>2026-04-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://firedbymybankruptcylawyer.com/finding-new-counsel.html</loc>
-    <lastmod>2026-04-08</lastmod>
+    <lastmod>2026-04-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://firedbymybankruptcylawyer.com/pro-se-options.html</loc>
-    <lastmod>2026-04-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://firedbymybankruptcylawyer.com/fee-disputes.html</loc>
-    <lastmod>2026-04-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://firedbymybankruptcylawyer.com/es.html</loc>
-    <lastmod>2026-04-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://firedbymybankruptcylawyer.com/fee-disputes-es.html</loc>
-    <lastmod>2026-04-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://firedbymybankruptcylawyer.com/finding-new-counsel-es.html</loc>
-    <lastmod>2026-04-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://firedbymybankruptcylawyer.com/next-steps-es.html</loc>
-    <lastmod>2026-04-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://firedbymybankruptcylawyer.com/pro-se-options-es.html</loc>
-    <lastmod>2026-04-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://firedbymybankruptcylawyer.com/why-attorneys-withdraw-es.html</loc>
-    <lastmod>2026-04-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://firedbymybankruptcylawyer.com/frequently-asked-questions.html</loc>
     <lastmod>2026-04-09</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://firedbymybankruptcylawyer.com/frequently-asked-questions-es.html</loc>
+    <loc>https://firedbymybankruptcylawyer.com/</loc>
     <lastmod>2026-04-09</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://firedbymybankruptcylawyer.com/next-steps.html</loc>
+    <lastmod>2026-04-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://firedbymybankruptcylawyer.com/pro-se-options.html</loc>
+    <lastmod>2026-04-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://firedbymybankruptcylawyer.com/why-attorneys-withdraw.html</loc>
+    <lastmod>2026-04-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
 </urlset>
