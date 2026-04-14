@@ -6,8 +6,8 @@ Part of the Open Bankruptcy Project (openbankruptcyproject.org).
 
 ---
 
-## Fired by Your Bankruptcy Lawyer? -- Know Your Rights [2026]
-Source: https://firedbymybankruptcylawyer.com/
+## Fee Disputes After Attorney Withdrawal in Bankruptcy
+Source: https://firedbymybankruptcylawyer.com/fee-disputes.html
 
 firedbymybankruptcylawyer.com
 ☰
@@ -19,7 +19,301 @@ Finding New Bankruptcy Counsel
 Continuing Your Bankruptcy Case
 Fee Disputes After Attorney
 
-Part of the Open Bankruptcy Project -- 161+ free domains, 115,000+ pages, $0 cost
+Part of the Open Bankruptcy Project - 161+ free domains, 115,000+ pages, $0 cost
+
+Fee Disputes After Attorney Withdrawal
+
+Home›Fee Disputes After Attorney Withdrawal in Bankruptcy | firedbymybankruptcylawyer.com›Fee Disputes After Attorney Withdrawal
+
+Resolving fee issues when your attorney withdraws
+
+When an attorney withdraws from your bankruptcy case, fee disputes are common. Understanding your options helps protect your financial interests.
+
+You may be owed a refund
+
+If you paid a flat fee and the attorney withdraws before completing the work, you may be entitled to a partial refund for services not yet rendered. The amount depends on what work was completed.
+
+Court oversight of fees
+
+Under 11 U.S.C. Section 329, the bankruptcy court has jurisdiction over attorney fees. If your attorney disclosed fees to the court, you can ask the court to review whether fees are reasonable given that the representation was not completed.
+
+How to raise a fee dispute
+
+Request a refund in writing - Send a written request to the attorney detailing what you paid and what work was not completed
+
+File a motion with the court - You can ask the bankruptcy court to review fees under Section 329(b)
+
+Contact the U.S. Trustee - The U.S. Trustee monitors attorney fees and can investigate
+
+State bar fee arbitration - Many state bars offer fee arbitration programs to resolve disputes
+
+11 U.S.C. Section 329(b): The court may cancel fee agreements or order return of payments to the extent they exceed the reasonable value of services actually provided.
+
+← Back to firedbymybankruptcylawyer.com
+
+Related Topics
+
+1328(f) Discharge Screener
+Automatic Stay Guide
+Means Test Calculator
+Chapter 7 vs 13
+How to File Bankruptcy
+Affordable Legal Help
+
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending), funding PACER access fees and bankruptcy court transparency research.
+
+♥ Sponsor
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Home
+Why Bankruptcy Attorneys Withdraw
+What to Do When
+Finding New Bankruptcy Counsel
+Continuing Your Bankruptcy Case
+Fee Disputes After Attorney
+
+This site provides general information only and does not constitute legal advice.
+No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
+
+Last updated: April 2026
+
+Privacy | Terms | Open Bankruptcy Project
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+---
+
+## Finding New Bankruptcy Counsel After Withdrawal
+Source: https://firedbymybankruptcylawyer.com/finding-new-counsel.html
+
+firedbymybankruptcylawyer.com
+☰
+
+Home
+Why Bankruptcy Attorneys Withdraw
+What to Do When
+Finding New Bankruptcy Counsel
+Continuing Your Bankruptcy Case
+Fee Disputes After Attorney
+
+Part of the Open Bankruptcy Project - 161+ free domains, 115,000+ pages, $0 cost
+
+Finding New Bankruptcy Counsel
+
+Home›Finding New Bankruptcy Counsel After Withdrawal | firedbymybankruptcylawyer.com›Finding New Bankruptcy Counsel
+
+How to find a replacement attorney mid-case
+
+Finding new representation in the middle of a bankruptcy case is more difficult than starting fresh, but it is absolutely possible.
+
+What new attorneys need to know
+
+Why your previous attorney withdrew
+
+The current status of your case (pending motions, upcoming hearings)
+
+Whether the case is on track or facing issues
+
+Your case file and docket
+
+Where to look
+
+Local bar association - Lawyer referral services can connect you with attorneys who take mid-case replacements
+
+Legal aid - If you qualify financially, legal aid may be able to step in
+
+Bankruptcy court self-help desk - Some courts maintain lists of attorneys willing to take referrals
+
+NACBA directory - The National Association of Consumer Bankruptcy Attorneys maintains a directory at nacba.org
+
+Fees for replacement counsel
+
+A replacement attorney may charge differently than your original attorney. They may need to review the entire file, correct errors, or do work that should have been done earlier. Get a clear fee agreement that specifies what is covered.
+
+Tip: When consulting potential replacement attorneys, bring a copy of your docket, your original retainer agreement, and any pending deadlines. The more organized you are, the easier it is for a new attorney to evaluate your case.
+
+← Back to firedbymybankruptcylawyer.com
+
+Related Topics
+
+1328(f) Discharge Screener
+Automatic Stay Guide
+Means Test Calculator
+Chapter 7 vs 13
+How to File Bankruptcy
+Affordable Legal Help
+
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending), funding PACER access fees and bankruptcy court transparency research.
+
+♥ Sponsor
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Home
+Why Bankruptcy Attorneys Withdraw
+What to Do When
+Finding New Bankruptcy Counsel
+Continuing Your Bankruptcy Case
+Fee Disputes After Attorney
+
+This site provides general information only and does not constitute legal advice.
+No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
+
+Last updated: April 2026
+
+Privacy | Terms | Open Bankruptcy Project
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+---
+
+## Fired by Your Bankruptcy Lawyer FAQ - Next Steps and Rights
+Source: https://firedbymybankruptcylawyer.com/frequently-asked-questions.html
+
+Skip to main content
+
+firedbymybankruptcylawyer.com
+
+Home
+FAQ
+Espanol
+
+Fired by Your Bankruptcy Lawyer FAQ - Next Steps and Rights
+
+Answers to common questions when your bankruptcy attorney withdraws or fires you, including fee refunds, finding new counsel, and going pro se.
+
+Open Bankruptcy Project›firedbymybankruptcylawyer.com›FAQ
+
+Can my bankruptcy lawyer fire me?
+
+Yes. An attorney can withdraw from your case with court approval. They must file a motion to withdraw and the court must grant it. Common reasons include nonpayment of fees, client noncooperation, irreconcilable differences, or conflicts of interest. The court considers whether withdrawal will prejudice your case.
+
+What should I do immediately after my lawyer withdraws?
+
+Check the court docket for any pending deadlines or hearings. File a notice of appearance if proceeding pro se, or find a new attorney quickly. Contact the court clerk to confirm your next required actions. Do not ignore your case - missed deadlines can result in dismissal.
+
+Can I get a refund if my bankruptcy lawyer fires me?
+
+You may be entitled to a refund of unearned fees. The attorney must return any portion of fees that has not been earned through services rendered. You can request a fee accounting and, if necessary, file a fee dispute with the state bar or seek disgorgement through the bankruptcy court.
+
+Why would a bankruptcy attorney withdraw from my case?
+
+Common reasons include: the client stopped paying agreed fees, the client failed to provide required documents or information, irreconcilable disagreements about case strategy, the attorney discovered a conflict of interest, or the client engaged in conduct the attorney cannot ethically support.
+
+How do I find a new bankruptcy attorney mid-case?
+
+Contact your local bar association's lawyer referral service, NACBA (National Association of Consumer Bankruptcy Attorneys), or legal aid organizations. Be upfront about being mid-case and the reason for the attorney change. Bring all court documents and correspondence from the prior attorney.
+
+Can I continue my bankruptcy case without a lawyer?
+
+Yes. You have the right to represent yourself (pro se) in bankruptcy court. Individual debtors can proceed pro se, though it requires careful attention to deadlines, forms, and procedures. Visit prosebankruptcy.org for guidance.
+
+What happens to my bankruptcy case if I can't find a new lawyer?
+
+Your case continues whether or not you have an attorney. You become responsible for all filings, hearing appearances, and deadlines. The court will not dismiss your case simply because your attorney withdrew, but you must stay on top of requirements.
+
+Can the court deny my lawyer's motion to withdraw?
+
+Yes. The court can deny a withdrawal motion if it would prejudice the client, if the case is at a critical stage (such as near a hearing or confirmation), or if the attorney's reasons are insufficient. The court balances the attorney's right to withdraw against harm to the client and case.
+
+Do I owe my old attorney money after they withdraw?
+
+You only owe for services actually rendered. Review your fee agreement to understand the billing structure. If the attorney was paid a flat fee, they must account for work completed versus total work required. Disputes can be resolved through the state bar fee arbitration program.
+
+What deadlines do I need to watch after my lawyer leaves?
+
+Check the docket for: trustee document requests, plan payment deadlines, hearing dates, objection deadlines, and any pending motions. The most critical is your next scheduled hearing date and any response deadlines for motions or objections. The court clerk can help identify upcoming deadlines.
+
+Can I sue my former bankruptcy attorney for malpractice?
+
+If your attorney's conduct caused you harm - such as a missed deadline that led to case dismissal, a lost exemption, or unnecessary fees - you may have a malpractice claim. Consult a legal malpractice attorney. The statute of limitations for malpractice varies by state, typically 1-3 years.
+
+What if my lawyer withdrew because of a fee dispute?
+
+Fee disputes are common reasons for withdrawal. Review whether the fees charged match your written agreement. Request an itemized billing statement. If fees seem excessive, file a complaint with the state bar or request fee review through the bankruptcy court under Section 329(b).
+
+How long do I have to find new counsel after withdrawal?
+
+There is no fixed deadline, but act quickly. The court may set a deadline for you to find new counsel or confirm you are proceeding pro se. Do not wait - any pending deadlines in your case continue to run regardless of your representation status.
+
+Can I file a bar complaint against an attorney who fires me?
+
+You can file a bar complaint if the attorney violated ethical rules - for example, by withdrawing at a critical time, failing to return your file, or refusing to refund unearned fees. Simply being fired is not grounds for a complaint if the withdrawal was properly handled.
+
+Is my attorney required to give me my case file?
+
+Yes. Upon termination of the attorney-client relationship, the attorney must promptly return your file and documents. This includes all court filings, correspondence, financial documents you provided, and work product. Refusal to return files is an ethical violation.
+
+More Resources on This Site
+
+Fee Disputes
+
+Finding New Counsel
+
+Pro Se Options
+
+Why Attorneys Withdraw
+
+Next Steps
+
+Related Resources
+
+Lawyer Won't Call Back
+
+Bankruptcy Mill
+
+Pro Se Filing
+
+Open Bankruptcy Project
+
+Real information, no strings.
+
+openbankruptcyproject.org
+1328f.com
+chapter7vs13.org
+bankruptcymeanstest.org
+♥ Sponsor
+
+This site provides general information only and does not constitute legal advice. Consult a licensed attorney for advice on your specific situation.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms
+
+---
+
+## Fired by Your Bankruptcy Lawyer? - Know Your Rights [2026]
+Source: https://firedbymybankruptcylawyer.com/
+
+Skip to main content
+
+firedbymybankruptcylawyer.com
+☰
+
+Home
+Why Bankruptcy Attorneys Withdraw
+What to Do When
+Finding New Bankruptcy Counsel
+Continuing Your Bankruptcy Case
+Fee Disputes After Attorney
+
+Part of the Open Bankruptcy Project - 161+ free domains, 115,000+ pages, $0 cost
 
 Fired by Your Bankruptcy Lawyer?
 
@@ -28,7 +322,7 @@ Being told your attorney is withdrawing from your bankruptcy case can be frighte
 Why Attorneys Withdraw
 Your Next Steps
 
-Attorney withdrawal requires court permission -- your attorney cannot just walk away without following proper procedure
+Attorney withdrawal requires court permission - your attorney cannot just walk away without following proper procedure
 
 Explore this guide
 
@@ -70,7 +364,7 @@ No. In bankruptcy court, an attorney must file a motion to withdraw and get cour
 
 What do I do if my bankruptcy lawyer withdraws?
 
-Act immediately: get your case file from the withdrawing attorney, note all pending deadlines and hearings, start contacting replacement attorneys, and respond to the withdrawal motion if needed. Do not ignore court notices -- you are responsible for your case even without counsel. If the withdrawal resulted from negligence, you may have a bankruptcy malpractice claim.
+Act immediately: get your case file from the withdrawing attorney, note all pending deadlines and hearings, start contacting replacement attorneys, and respond to the withdrawal motion if needed. Do not ignore court notices - you are responsible for your case even without counsel. If the withdrawal resulted from negligence, you may have a bankruptcy malpractice claim.
 
 Can I get a refund if my bankruptcy attorney withdraws?
 
@@ -78,11 +372,11 @@ Potentially. If you paid a flat fee and the attorney did not complete the work, 
 
 Can I represent myself if my bankruptcy attorney withdraws?
 
-Yes, you can continue your case pro se. However, this is very challenging in Chapter 13 cases. Court self-help centers, the clerk's office, and legal aid organizations can provide some assistance. Finding replacement counsel should be your first priority -- use bankruptcy attorney ratings and independent case file review tools to vet potential new counsel before hiring.
+Yes, you can continue your case pro se. However, this is very challenging in Chapter 13 cases. Court self-help centers, the clerk's office, and legal aid organizations can provide some assistance. Finding replacement counsel should be your first priority - use bankruptcy attorney ratings and independent case file review tools to vet potential new counsel before hiring.
 
 Why would a bankruptcy attorney withdraw from my case?
 
-Common reasons include nonpayment of fees, client non-cooperation (not providing documents or missing appointments), irreconcilable disagreements about strategy, or conflicts of interest. The attorney must state the reason in their withdrawal motion. In many cases, the withdrawal follows a pattern of poor communication -- if your attorney stopped returning calls long before the withdrawal, that may indicate a deeper problem with how the firm handles cases.
+Common reasons include nonpayment of fees, client non-cooperation (not providing documents or missing appointments), irreconcilable disagreements about strategy, or conflicts of interest. The attorney must state the reason in their withdrawal motion. In many cases, the withdrawal follows a pattern of poor communication - if your attorney stopped returning calls long before the withdrawal, that may indicate a deeper problem with how the firm handles cases.
 
 Related Topics
 
@@ -99,7 +393,7 @@ This site is free and open-source. Donations support the Open Bankruptcy Project
 
 Your Next Questions
 
-Real users ask these next -- we built the answers.
+Real users ask these next - we built the answers.
 
 Chapter 7 vs Chapter 13
 
@@ -156,6 +450,10 @@ No attorney-client relationship is created by using this site. Consult a license
 Last updated: April 2026
 
 Privacy | Terms | Open Bankruptcy Project
+
+Rule 9037 PII Scanner - Free open-source tool to detect unredacted personal information in court filings
+
+Cited by the Federal Rules Committee (26-BK-3)
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
@@ -239,98 +537,6 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 ---
 
-## Why Bankruptcy Attorneys Withdraw from Cases
-Source: https://firedbymybankruptcylawyer.com/why-attorneys-withdraw.html
-
-firedbymybankruptcylawyer.com
-☰
-
-Home
-Why Bankruptcy Attorneys Withdraw
-What to Do When
-Finding New Bankruptcy Counsel
-Continuing Your Bankruptcy Case
-Fee Disputes After Attorney
-
-Part of the Open Bankruptcy Project -- 161+ free domains, 115,000+ pages, $0 cost
-
-Why Bankruptcy Attorneys Withdraw from Cases
-
-Common reasons for attorney withdrawal
-
-There are many reasons a bankruptcy attorney may seek to withdraw from your case. Understanding the reason helps you decide how to respond.
-
-Permissive withdrawal
-
-Under the Model Rules of Professional Conduct, an attorney may withdraw when:
-
-Nonpayment of fees -- The most common reason. If you stop paying, the attorney can seek to withdraw
-
-Client non-cooperation -- If you do not provide required documents, miss appointments, or do not respond to communications
-
-Irreconcilable disagreement -- Fundamental disagreements about case strategy
-
-Unreasonable burden -- When continued representation becomes unreasonably difficult
-
-Mandatory withdrawal
-
-An attorney must withdraw when:
-
-Client insists on illegal action -- If the client demands the attorney file fraudulent documents or take other illegal steps
-
-Physical or mental incapacity -- The attorney is unable to provide competent representation
-
-Conflict of interest -- A conflict arises that cannot be waived
-
-The withdrawal process in bankruptcy
-
-In bankruptcy court, an attorney cannot simply stop working on your case. They must file a motion to withdraw, which requires court approval. The court will consider whether withdrawal would prejudice you and may deny the motion if it would leave you unrepresented at a critical stage.
-
-Local rules matter: Each bankruptcy court has local rules governing attorney withdrawal. Some require the attorney to provide notice to the client and all parties. Some require a hearing. Check your district's local rules.
-
-← Back to firedbymybankruptcylawyer.com
-
-Related Topics
-
-1328(f) Discharge Screener
-Automatic Stay Guide
-Means Test Calculator
-Chapter 7 vs 13
-How to File Bankruptcy
-Affordable Legal Help
-
-This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending), funding PACER access fees and bankruptcy court transparency research.
-
-♥ Sponsor
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Home
-Why Bankruptcy Attorneys Withdraw
-What to Do When
-Finding New Bankruptcy Counsel
-Continuing Your Bankruptcy Case
-Fee Disputes After Attorney
-
-This site provides general information only and does not constitute legal advice.
-No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-
-Last updated: April 2026
-
-Privacy | Terms | Open Bankruptcy Project
-
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
-
-You May Also Find Helpful
-
-Bankruptcy Means Test by State -- bankruptcymeanstest.org
-
-1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
-
-Open Bankruptcy Project -- openbankruptcyproject.org
-
----
-
 ## What to Do When Your Bankruptcy Attorney Withdraws
 Source: https://firedbymybankruptcylawyer.com/next-steps.html
 
@@ -344,9 +550,11 @@ Finding New Bankruptcy Counsel
 Continuing Your Bankruptcy Case
 Fee Disputes After Attorney
 
-Part of the Open Bankruptcy Project -- 161+ free domains, 115,000+ pages, $0 cost
+Part of the Open Bankruptcy Project - 161+ free domains, 115,000+ pages, $0 cost
 
 What to Do When Your Attorney Withdraws
+
+Home›What to Do When Your Bankruptcy Attorney Withdraws | firedbymybankruptcylawyer.com›What to Do When Your Attorney Withdraws
 
 Immediate steps to protect your case
 
@@ -368,7 +576,7 @@ Contact your local bar association's lawyer referral service
 
 Check legal aid programs if cost is a barrier
 
-Be transparent about why your previous attorney withdrew -- new attorneys need to understand the situation
+Be transparent about why your previous attorney withdrew - new attorneys need to understand the situation
 
 Step 4: Notify the court if needed
 
@@ -379,96 +587,6 @@ Step 5: Monitor your deadlines
 Check your docket on PACER for any pending deadlines, hearings, or required filings. Missing a deadline while between attorneys can have serious consequences.
 
 Do not ignore court notices. Even without an attorney, you are responsible for responding to court orders and attending hearings. The court will not excuse missed deadlines just because you lost your attorney.
-
-← Back to firedbymybankruptcylawyer.com
-
-Related Topics
-
-1328(f) Discharge Screener
-Automatic Stay Guide
-Means Test Calculator
-Chapter 7 vs 13
-How to File Bankruptcy
-Affordable Legal Help
-
-This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending), funding PACER access fees and bankruptcy court transparency research.
-
-♥ Sponsor
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Home
-Why Bankruptcy Attorneys Withdraw
-What to Do When
-Finding New Bankruptcy Counsel
-Continuing Your Bankruptcy Case
-Fee Disputes After Attorney
-
-This site provides general information only and does not constitute legal advice.
-No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-
-Last updated: April 2026
-
-Privacy | Terms | Open Bankruptcy Project
-
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
-
-You May Also Find Helpful
-
-Bankruptcy Means Test by State -- bankruptcymeanstest.org
-
-1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
-
-Open Bankruptcy Project -- openbankruptcyproject.org
-
----
-
-## Finding New Bankruptcy Counsel After Withdrawal
-Source: https://firedbymybankruptcylawyer.com/finding-new-counsel.html
-
-firedbymybankruptcylawyer.com
-☰
-
-Home
-Why Bankruptcy Attorneys Withdraw
-What to Do When
-Finding New Bankruptcy Counsel
-Continuing Your Bankruptcy Case
-Fee Disputes After Attorney
-
-Part of the Open Bankruptcy Project -- 161+ free domains, 115,000+ pages, $0 cost
-
-Finding New Bankruptcy Counsel
-
-How to find a replacement attorney mid-case
-
-Finding new representation in the middle of a bankruptcy case is more difficult than starting fresh, but it is absolutely possible.
-
-What new attorneys need to know
-
-Why your previous attorney withdrew
-
-The current status of your case (pending motions, upcoming hearings)
-
-Whether the case is on track or facing issues
-
-Your case file and docket
-
-Where to look
-
-Local bar association -- Lawyer referral services can connect you with attorneys who take mid-case replacements
-
-Legal aid -- If you qualify financially, legal aid may be able to step in
-
-Bankruptcy court self-help desk -- Some courts maintain lists of attorneys willing to take referrals
-
-NACBA directory -- The National Association of Consumer Bankruptcy Attorneys maintains a directory at nacba.org
-
-Fees for replacement counsel
-
-A replacement attorney may charge differently than your original attorney. They may need to review the entire file, correct errors, or do work that should have been done earlier. Get a clear fee agreement that specifies what is covered.
-
-Tip: When consulting potential replacement attorneys, bring a copy of your docket, your original retainer agreement, and any pending deadlines. The more organized you are, the easier it is for a new attorney to evaluate your case.
 
 ← Back to firedbymybankruptcylawyer.com
 
@@ -526,9 +644,11 @@ Finding New Bankruptcy Counsel
 Continuing Your Bankruptcy Case
 Fee Disputes After Attorney
 
-Part of the Open Bankruptcy Project -- 161+ free domains, 115,000+ pages, $0 cost
+Part of the Open Bankruptcy Project - 161+ free domains, 115,000+ pages, $0 cost
 
 Continuing Your Case Pro Se
+
+Home›Continuing Your Bankruptcy Case Pro Se | firedbymybankruptcylawyer.com›Continuing Your Case Pro Se
 
 Representing yourself after attorney withdrawal
 
@@ -540,13 +660,13 @@ Once your attorney officially withdraws and the court approves, you become respo
 
 Resources for pro se litigants
 
-Court self-help centers -- Many bankruptcy courts have free self-help desks
+Court self-help centers - Many bankruptcy courts have free self-help desks
 
-Court website -- Your local bankruptcy court's website has local rules, forms, and procedural guides
+Court website - Your local bankruptcy court's website has local rules, forms, and procedural guides
 
-PACER -- Monitor your docket regularly for new filings and deadlines
+PACER - Monitor your docket regularly for new filings and deadlines
 
-Bankruptcy court clerk -- Clerks cannot give legal advice, but they can explain procedures
+Bankruptcy court clerk - Clerks cannot give legal advice, but they can explain procedures
 
 Critical things to track
 
@@ -605,8 +725,8 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 ---
 
-## Fee Disputes After Attorney Withdrawal in Bankruptcy
-Source: https://firedbymybankruptcylawyer.com/fee-disputes.html
+## Why Bankruptcy Attorneys Withdraw from Cases
+Source: https://firedbymybankruptcylawyer.com/why-attorneys-withdraw.html
 
 firedbymybankruptcylawyer.com
 ☰
@@ -618,33 +738,43 @@ Finding New Bankruptcy Counsel
 Continuing Your Bankruptcy Case
 Fee Disputes After Attorney
 
-Part of the Open Bankruptcy Project -- 161+ free domains, 115,000+ pages, $0 cost
+Part of the Open Bankruptcy Project - 161+ free domains, 115,000+ pages, $0 cost
 
-Fee Disputes After Attorney Withdrawal
+Why Bankruptcy Attorneys Withdraw from Cases
 
-Resolving fee issues when your attorney withdraws
+Home›Why Bankruptcy Attorneys Withdraw from Cases | firedbymybankruptcylawyer.com›Why Bankruptcy Attorneys Withdraw from Cases
 
-When an attorney withdraws from your bankruptcy case, fee disputes are common. Understanding your options helps protect your financial interests.
+Common reasons for attorney withdrawal
 
-You may be owed a refund
+There are many reasons a bankruptcy attorney may seek to withdraw from your case. Understanding the reason helps you decide how to respond.
 
-If you paid a flat fee and the attorney withdraws before completing the work, you may be entitled to a partial refund for services not yet rendered. The amount depends on what work was completed.
+Permissive withdrawal
 
-Court oversight of fees
+Under the Model Rules of Professional Conduct, an attorney may withdraw when:
 
-Under 11 U.S.C. Section 329, the bankruptcy court has jurisdiction over attorney fees. If your attorney disclosed fees to the court, you can ask the court to review whether fees are reasonable given that the representation was not completed.
+Nonpayment of fees - The most common reason. If you stop paying, the attorney can seek to withdraw
 
-How to raise a fee dispute
+Client non-cooperation - If you do not provide required documents, miss appointments, or do not respond to communications
 
-Request a refund in writing -- Send a written request to the attorney detailing what you paid and what work was not completed
+Irreconcilable disagreement - Fundamental disagreements about case strategy
 
-File a motion with the court -- You can ask the bankruptcy court to review fees under Section 329(b)
+Unreasonable burden - When continued representation becomes unreasonably difficult
 
-Contact the U.S. Trustee -- The U.S. Trustee monitors attorney fees and can investigate
+Mandatory withdrawal
 
-State bar fee arbitration -- Many state bars offer fee arbitration programs to resolve disputes
+An attorney must withdraw when:
 
-11 U.S.C. Section 329(b): The court may cancel fee agreements or order return of payments to the extent they exceed the reasonable value of services actually provided.
+Client insists on illegal action - If the client demands the attorney file fraudulent documents or take other illegal steps
+
+Physical or mental incapacity - The attorney is unable to provide competent representation
+
+Conflict of interest - A conflict arises that cannot be waived
+
+The withdrawal process in bankruptcy
+
+In bankruptcy court, an attorney cannot simply stop working on your case. They must file a motion to withdraw, which requires court approval. The court will consider whether withdrawal would prejudice you and may deny the motion if it would leave you unrepresented at a critical stage.
+
+Local rules matter: Each bankruptcy court has local rules governing attorney withdrawal. Some require the attorney to provide notice to the client and all parties. Some require a hearing. Check your district's local rules.
 
 ← Back to firedbymybankruptcylawyer.com
 
@@ -689,112 +819,72 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 ---
 
-## Fired by Your Bankruptcy Lawyer FAQ -- Next Steps and Rights
-Source: https://firedbymybankruptcylawyer.com/frequently-asked-questions.html
-
-Skip to main content
+## Privacy Policy - firedbymybankruptcylawyer.com
+Source: https://firedbymybankruptcylawyer.com/privacy.html
 
 firedbymybankruptcylawyer.com
 
 Home
-FAQ
-Espanol
+Privacy
 
-Fired by Your Bankruptcy Lawyer FAQ -- Next Steps and Rights
+Privacy Policy
 
-Answers to common questions when your bankruptcy attorney withdraws or fires you, including fee refunds, finding new counsel, and going pro se.
+How we handle your data. Short version: we don't sell it, share it, or use it for advertising.
 
-Can my bankruptcy lawyer fire me?
+Data We Collect
 
-Yes. An attorney can withdraw from your case with court approval. They must file a motion to withdraw and the court must grant it. Common reasons include nonpayment of fees, client noncooperation, irreconcilable differences, or conflicts of interest. The court considers whether withdrawal will prejudice your case.
+We use Google Analytics (GA4) to measure aggregate site traffic. This includes page views, session duration, approximate geographic region (country and city level), and device type. We do not collect names, email addresses, or personally identifiable information through analytics.
 
-What should I do immediately after my lawyer withdraws?
+Aggregate event data from Google Analytics is also exported to Google BigQuery for research use. The BigQuery data is used only for internal trajectory analysis and network health reports, is not shared with third parties, and is not used for advertising.
 
-Check the court docket for any pending deadlines or hearings. File a notice of appearance if proceeding pro se, or find a new attorney quickly. Contact the court clerk to confirm your next required actions. Do not ignore your case -- missed deadlines can result in dismissal.
+What We Don't Do
 
-Can I get a refund if my bankruptcy lawyer fires me?
+We do not sell data. We do not run advertising. We do not collect financial information. We do not use retargeting. We do not share any user data with attorneys, law firms, creditors, debt collectors, or legal service providers.
 
-You may be entitled to a refund of unearned fees. The attorney must return any portion of fees that has not been earned through services rendered. You can request a fee accounting and, if necessary, file a fee dispute with the state bar or seek disgorgement through the bankruptcy court.
+Specifically, we do not enable Google Signals, Google Ads integration, User-ID collection, or any cross-device tracking feature in Google Analytics. GA4 operates in aggregate-traffic-measurement mode only on this site.
 
-Why would a bankruptcy attorney withdraw from my case?
+Cookies
 
-Common reasons include: the client stopped paying agreed fees, the client failed to provide required documents or information, irreconcilable disagreements about case strategy, the attorney discovered a conflict of interest, or the client engaged in conduct the attorney cannot ethically support.
+We use only first-party cookies set by Google Analytics for aggregate traffic measurement. We do not use advertising cookies, tracking pixels, or third-party analytics cookies.
 
-How do I find a new bankruptcy attorney mid-case?
+Third-Party Services
 
-Contact your local bar association's lawyer referral service, NACBA (National Association of Consumer Bankruptcy Attorneys), or legal aid organizations. Be upfront about being mid-case and the reason for the attorney change. Bring all court documents and correspondence from the prior attorney.
+Google Analytics (GA4) - aggregate traffic measurement
 
-Can I continue my bankruptcy case without a lawyer?
+Google BigQuery - aggregate event data warehouse for research use only; not shared, not used for advertising
 
-Yes. You have the right to represent yourself (pro se) in bankruptcy court. Individual debtors can proceed pro se, though it requires careful attention to deadlines, forms, and procedures. Visit prosebankruptcy.org for guidance.
+Google Search Console - search query measurement (clicks, impressions, our own page rankings)
 
-What happens to my bankruptcy case if I can't find a new lawyer?
+GitHub Pages - hosting
 
-Your case continues whether or not you have an attorney. You become responsible for all filings, hearing appearances, and deadlines. The court will not dismiss your case simply because your attorney withdrew, but you must stay on top of requirements.
+Contact Forms & Email
 
-Can the court deny my lawyer's motion to withdraw?
+This site may link to contact forms or email addresses operated by the Open Bankruptcy Project. Any data you submit through those channels is handled under the Open Bankruptcy Project master privacy policy, which governs all sites in this network.
 
-Yes. The court can deny a withdrawal motion if it would prejudice the client, if the case is at a critical stage (such as near a hearing or confirmation), or if the attorney's reasons are insufficient. The court balances the attorney's right to withdraw against harm to the client and case.
+Children's Privacy
 
-Do I owe my old attorney money after they withdraw?
+This site is not directed at children under 13. We do not knowingly collect information from children.
 
-You only owe for services actually rendered. Review your fee agreement to understand the billing structure. If the attorney was paid a flat fee, they must account for work completed versus total work required. Disputes can be resolved through the state bar fee arbitration program.
+Data Retention
 
-What deadlines do I need to watch after my lawyer leaves?
+Analytics data is retained for 14 months per Google's standard retention settings. After that window, individual event data is automatically deleted by Google; aggregate report metrics remain available.
 
-Check the docket for: trustee document requests, plan payment deadlines, hearing dates, objection deadlines, and any pending motions. The most critical is your next scheduled hearing date and any response deadlines for motions or objections. The court clerk can help identify upcoming deadlines.
+Your Rights
 
-Can I sue my former bankruptcy attorney for malpractice?
+You may request deletion of any personal data we hold by contacting info@openbankruptcyproject.org. California residents have additional rights under CCPA. EU residents have additional rights under GDPR. All such requests are handled by the Open Bankruptcy Project.
 
-If your attorney's conduct caused you harm -- such as a missed deadline that led to case dismissal, a lost exemption, or unnecessary fees -- you may have a malpractice claim. Consult a legal malpractice attorney. The statute of limitations for malpractice varies by state, typically 1-3 years.
+Network Policy
 
-What if my lawyer withdrew because of a fee dispute?
+This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
 
-Fee disputes are common reasons for withdrawal. Review whether the fees charged match your written agreement. Request an itemized billing statement. If fees seem excessive, file a complaint with the state bar or request fee review through the bankruptcy court under Section 329(b).
+Changes
 
-How long do I have to find new counsel after withdrawal?
+We may update this policy from time to time. Changes are reflected on the master policy first and then mirrored across all network sites. Check the master policy for the most current version.
 
-There is no fixed deadline, but act quickly. The court may set a deadline for you to find new counsel or confirm you are proceeding pro se. Do not wait -- any pending deadlines in your case continue to run regardless of your representation status.
+Effective: March 30, 2026  |  Updated: April 11, 2026
 
-Can I file a bar complaint against an attorney who fires me?
+Home  ·  Privacy  ·  Open Bankruptcy Project
 
-You can file a bar complaint if the attorney violated ethical rules -- for example, by withdrawing at a critical time, failing to return your file, or refusing to refund unearned fees. Simply being fired is not grounds for a complaint if the withdrawal was properly handled.
+Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
 
-Is my attorney required to give me my case file?
-
-Yes. Upon termination of the attorney-client relationship, the attorney must promptly return your file and documents. This includes all court filings, correspondence, financial documents you provided, and work product. Refusal to return files is an ethical violation.
-
-More Resources on This Site
-
-Fee Disputes
-
-Finding New Counsel
-
-Pro Se Options
-
-Why Attorneys Withdraw
-
-Next Steps
-
-Related Resources
-
-Lawyer Won't Call Back
-
-Bankruptcy Mill
-
-Pro Se Filing
-
-Open Bankruptcy Project
-
-Real information, no strings.
-
-openbankruptcyproject.org
-1328f.com
-chapter7vs13.org
-bankruptcymeanstest.org
-♥ Sponsor
-
-This site provides general information only and does not constitute legal advice. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
-
-Privacy | Terms
+No ads. No affiliate links. No data sold. Supported by donations.
