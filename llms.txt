@@ -1,5 +1,5 @@
 # Fired by Your Bankruptcy Lawyer? - Know Your Rights [2026]
-> Last updated: 2026-05-01
+> Last updated: 2026-09-25
 
 > Bankruptcy lawyer withdrew or fired you mid-case? Know your rights to fee refunds, your case file, and how to find replacement counsel. Free 2026 guide.
 
@@ -7,14 +7,39 @@
 firedbymybankruptcylawyer.com is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
-- Fee Disputes After Attorney Withdrawal in Bankruptcy: https://firedbymybankruptcylawyer.com/fee-disputes.html
-- Finding New Bankruptcy Counsel After Withdrawal: https://firedbymybankruptcylawyer.com/finding-new-counsel.html
+- Fee Disputes After Attorney Withdrawal [2026]: 11 USC 329(b) Refund Procedure and Rule 2017 Review: https://firedbymybankruptcylawyer.com/fee-disputes.html
+- Finding New Bankruptcy Counsel After Withdrawal [2026]: Substitution Procedure and File-Transfer Rights Under KRPC 1.16(d): https://firedbymybankruptcylawyer.com/finding-new-counsel.html
 - Fired by Your Bankruptcy Lawyer FAQ - Next Steps and Rights: https://firedbymybankruptcylawyer.com/frequently-asked-questions.html
 - Fired by Your Bankruptcy Lawyer? - Know Your Rights: https://firedbymybankruptcylawyer.com/
-- What to Do When Your Bankruptcy Attorney Withdraws: https://firedbymybankruptcylawyer.com/next-steps.html
-- Continuing Your Bankruptcy Case Pro Se: https://firedbymybankruptcylawyer.com/pro-se-options.html
-- Why Bankruptcy Attorneys Withdraw from Cases: https://firedbymybankruptcylawyer.com/why-attorneys-withdraw.html
+- Bankruptcy Attorney Withdrew: Next Steps [2026]: KRPC 1.16(d) File Recovery and Substitution Procedure: https://firedbymybankruptcylawyer.com/next-steps.html
+- Continuing Bankruptcy Case Pro Se [2026]: 11 USC 109 Eligibility and Rule 9010 Self-Representation: https://firedbymybankruptcylawyer.com/pro-se-options.html
+- Why Bankruptcy Attorneys Withdraw [2026]: KRPC 1.16 Grounds, Court Approval Under Rule 9010, and Client Rights: https://firedbymybankruptcylawyer.com/why-attorneys-withdraw.html
 - Privacy Policy: https://firedbymybankruptcylawyer.com/privacy.html
+- About firedbymybankruptcylawyer.com: https://firedbymybankruptcylawyer.com/about.html
+- Binary-Forcing Notice with Conditional Variants | Fired By My Bankruptcy Lawyer: https://firedbymybankruptcylawyer.com/methodology/binary-forcing-notice.html
+- Reserved-Instrument Discipline (Variants A through E) | Fired By My Bankruptcy Lawyer: https://firedbymybankruptcylawyer.com/methodology/reserved-instrument-discipline.html
+- Zugzwang Net Architecture | Fired By My Bankruptcy Lawyer: https://firedbymybankruptcylawyer.com/methodology/zugzwang-net-architecture.html
+- Fraud-by-Accumulation Framework | Fired By My Bankruptcy Lawyer: https://firedbymybankruptcylawyer.com/methodology/fraud-by-accumulation-framework.html
+- Vague Adverse Characterization Pattern Catalog | Fired By My Bankruptcy Lawyer: https://firedbymybankruptcylawyer.com/methodology/vague-adverse-characterization-pattern.html
+- Documentary-Anchoring Discipline | Fired By My Bankruptcy Lawyer: https://firedbymybankruptcylawyer.com/methodology/documentary-anchoring-discipline.html
+- Channel-Independent Escalation Discipline | Fired By My Bankruptcy Lawyer: https://firedbymybankruptcylawyer.com/methodology/channel-independent-escalation.html
+- UPL Guardrail with Counsel-Gated Federal Channel Routing | Fired By My Bankruptcy Lawyer: https://firedbymybankruptcylawyer.com/methodology/upl-guardrail-counsel-gated-routing.html
+- Counsel-Readability Standard | Fired By My Bankruptcy Lawyer: https://firedbymybankruptcylawyer.com/methodology/counsel-readability-standard.html
+- Exemplar-Case-for-AI-in-Law Positioning | Fired By My Bankruptcy Lawyer: https://firedbymybankruptcylawyer.com/methodology/exemplar-case-for-ai-in-law.html
+- Five-Tier Graduated Punishment Ladder | Fired By My Bankruptcy Lawyer: https://firedbymybankruptcylawyer.com/methodology/five-tier-graduated-punishment-ladder.html
+- Soft Documentary Trap | Fired By My Bankruptcy Lawyer: https://firedbymybankruptcylawyer.com/methodology/soft-documentary-trap.html
+- Category-Substitution Refusal Pattern Detection | Fired By My Bankruptcy Lawyer: https://firedbymybankruptcylawyer.com/methodology/category-substitution-refusal-pattern.html
+- Disclosed-Facts + Opinion-from-the-Record Structure | Fired By My Bankruptcy Lawyer: https://firedbymybankruptcylawyer.com/methodology/disclosed-facts-opinion-from-record.html
+- CFO-Incentive Cross-Case Outreach Framework | Fired By My Bankruptcy Lawyer: https://firedbymybankruptcylawyer.com/methodology/cfo-incentive-cross-case-outreach.html
+- Adversary Public-Statement Rebuke Structure | Fired By My Bankruptcy Lawyer: https://firedbymybankruptcylawyer.com/methodology/adversary-public-statement-rebuke.html
+- Hold Posture as Information Warfare | Fired By My Bankruptcy Lawyer: https://firedbymybankruptcylawyer.com/methodology/hold-posture-as-information-warfare.html
+- Attribution Publication Sequence (Methodology then RECAP then Bar) | Fired By My Bankruptcy Lawyer: https://firedbymybankruptcylawyer.com/methodology/attribution-publication-sequence.html
+- Originating-Attorney Attribution Methodology | Fired By My Bankruptcy Lawyer: https://firedbymybankruptcylawyer.com/methodology/originating-attorney-attribution.html
+- Spoliation Is Historical Not Cured | Fired By My Bankruptcy Lawyer: https://firedbymybankruptcylawyer.com/methodology/spoliation-historical-not-cured.html
+- Forensic Complainant Filling Federal Vacuum | Fired By My Bankruptcy Lawyer: https://firedbymybankruptcylawyer.com/methodology/forensic-complainant-filling-vacuum.html
+- Surveillance-Legibility Preservation Discipline | Fired By My Bankruptcy Lawyer: https://firedbymybankruptcylawyer.com/methodology/surveillance-legibility-preservation.html
+- Claude-Parallel Labor Architecture | Fired By My Bankruptcy Lawyer: https://firedbymybankruptcylawyer.com/methodology/claude-parallel-labor-architecture.html
+- No-Facade Architecture Principle | Fired By My Bankruptcy Lawyer: https://firedbymybankruptcylawyer.com/methodology/no-facade-architecture.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
